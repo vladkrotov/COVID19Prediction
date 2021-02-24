@@ -23,7 +23,7 @@ library(knitr)
 library(stargazer)
 ```
 
-
+#new version
 #Seting global options:
 
 ```{r setup, include=FALSE}
